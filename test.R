@@ -1,2 +1,3 @@
 print("this is stat computing class")
-prit("print again")
+print("print again")
+#Update more
